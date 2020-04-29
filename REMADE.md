@@ -20,4 +20,6 @@
 | git branch \<BranchName> | Create A Branch |
 | git checkout \<BranchName> | Switch To Branch \<BranchName>. Different Branches Does Not Affect Each Other |
 | git merge \<BranchName> | Merge Branch \<BranchName> With Current Branch |
+| git remote add \<RemoteName> \<RemoteURL> | Add A New Remote |
+| git push -u origin master | Link Remote Branch 'origin' With Local Branch 'master' |
 |   |   |
